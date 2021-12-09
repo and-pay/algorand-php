@@ -25,7 +25,7 @@
         "illuminate/container": "~5.0|^6.0|^7.0|^8.0",
         "illuminate/support": "~5.0|^6.0|^7.0|^8.0",
         "json-mapper/json-mapper": "dev-develop",
-        "myclabs/php-enum": "^1.8",
+        "myclabs/php-enum": "^1.7",
         "paragonie/constant_time_encoding": "^2.4",
         "paragonie/halite": "^4",
         "rybakit/msgpack": "^0.7.2"
